@@ -17,5 +17,8 @@ Programación en C ,Clase 03  funciones
   
   -6 hago el commit ( tomo una instantanea del momento)
   
+  (git commit -m "mensaje que habla del commit ")
+  
   -7 subir al repositorio WEB
 
+  (git push)
