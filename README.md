@@ -1,4 +1,9 @@
 # Cclase03funciones
+# wilson huallpa
+# tutorial de git + github
+programacion c clase 03 funciones
+
+
 Programación en C ,Clase 03  funciones
 
   -1 crear una carpeta
@@ -26,7 +31,7 @@ Programación en C ,Clase 03  funciones
 
 
 
-Resumen 
+#Resumen 
 
  clonar : git clone mi-repo
 
@@ -38,6 +43,7 @@ Resumen
  	1-git add .  (agrega archivos y cambios )
  	
  	2-git commit -m "el mensaje " (  toma instantanea del archivo/s )
+   ...
 
 
 para subir :
